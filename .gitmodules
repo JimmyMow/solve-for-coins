@@ -1,3 +1,3 @@
 [submodule "ui/chessli"]
-   path = ui/chessli
-   url = https://github.com/ornicar/chess.js
+	path = ui/chessli
+	url = https://github.com/ornicar/chess.js
